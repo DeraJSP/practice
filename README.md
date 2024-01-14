@@ -18,8 +18,8 @@
 
 **5.	Explain in simple terms git rebase and the command for it**
 	Git rebase is the process of changing the base of the developer's branch from one commit to another, so it looks like they have created their branch from a different commit.
-	```git rebase <base>``` is the command that performs the standard rebase.
+	`git rebase <base>` is the command that performs the standard rebase.
 
 **6.	Explain in simple terms git cherry-pick and the command for it**
 	Git cherry-pick means choosing a commit from one branch and applying it to another. It applies the changes introduced by one or more existing commits onto another branch.
-	```git cherry-pick <commit>``` is the command.
+	`git cherry-pick <commit>` is the command.
