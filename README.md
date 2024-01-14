@@ -4,7 +4,6 @@
 
 	This is a way of tracking code modifications and coordinating changes to software code and design.
  
-
 **2. 	Explain difference between git and github**  
 	Git is a version control software installed locally on a system and is used to manage repositories.  
 	Github is cloud-based service used to host git repositories and collaborate with other developers.
