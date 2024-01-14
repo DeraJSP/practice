@@ -24,4 +24,3 @@
 **6.	Explain in simple terms git cherry-pick and the command for it**  
 	Git cherry-pick means choosing a commit from one branch and applying it to another. It applies the changes introduced by one or more existing commits onto another branch.  
 	`git cherry-pick <commit>` is the command.
-+ Or pluses
