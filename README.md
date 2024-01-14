@@ -8,9 +8,9 @@ Git is a version control software installed locally on a system and is used to m
 Github is cloud-based service used to host git repositories and collaborate with other developers.
 
 **3.	List 3 other github alternatives**  
-- Bitbucket  
-- OneDev  
-- Codeberg  
+	- Bitbucket  
+	- OneDev  
+	- Codeberg  
  
 **4.	Explain the difference between git fetch and git pull**  
 	git fetch is used to fetch all changes from the remote repository to the local repository without making changes to the current working directory.
