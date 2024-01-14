@@ -1,16 +1,16 @@
 # GIT TASK
 
 **1.  	Explain version control**  
-	This is a way of tracking code modifications and coordinating changes to software code and design.
+This is a way of tracking code modifications and coordinating changes to software code and design.
 
 **2. 	Explain difference between git and github**  
-	Git is a version control software installed locally on a system and is used to manage repositories.
-	Github is cloud-based service used to host git repositories and collaborate with other developers.
+Git is a version control software installed locally on a system and is used to manage repositories.
+Github is cloud-based service used to host git repositories and collaborate with other developers.
 
 **3.	List 3 other github alternatives**  
-	- Bitbucket  
-	- OneDev  
-	- Codeberg  
+- Bitbucket  
+- OneDev  
+- Codeberg  
  
 **4.	Explain the difference between git fetch and git pull**  
 	git fetch is used to fetch all changes from the remote repository to the local repository without making changes to the current working directory.
