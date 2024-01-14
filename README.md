@@ -1,7 +1,6 @@
 # GIT TASK
 
 **1. Explain version control**  
-
 	This is a way of tracking code modifications and coordinating changes to software code and design.
 
 **2. 	Explain difference between git and github**  
