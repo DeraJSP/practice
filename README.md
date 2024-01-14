@@ -4,7 +4,7 @@
 	This is a way of tracking code modifications and coordinating changes to software code and design.
 
 **2. 	Explain difference between git and github**  
-	Git is a version control software installed locally on a system and is used to manage repositories.
+	Git is a version control software installed locally on a system and is used to manage repositories.  
 	Github is cloud-based service used to host git repositories and collaborate with other developers.
 
 **3.	List 3 other github alternatives**  
@@ -13,7 +13,7 @@
 - Codeberg  
  
 **4.	Explain the difference between git fetch and git pull**  
-	git fetch is used to fetch all changes from the remote repository to the local repository without making changes to the current working directory.
+	git fetch is used to fetch all changes from the remote repository to the local repository without making changes to the current working directory.  
 	git pull brings a local branch up-to-date with its remote version. It automatically merges the changes into the current working directory.
 
 **5.	Explain in simple terms git rebase and the command for it**  
